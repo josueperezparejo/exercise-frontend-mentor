@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: hsl(235, 18%, 26%)
+}
+
+h1,
+h2,
+button {
+    font-family: 'Roboto-Bold';
+}
+
+p {
+    font-family: 'Roboto-Regular';
+}
